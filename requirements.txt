@@ -1,0 +1,21 @@
+# Shared 
+
+pandas>=2.0 
+
+ 
+
+# v1.0 — text_analysis_template 
+
+PyPDF2>=3.0 
+
+ 
+
+# v2.0 — Text Analysis Template 2_0 
+
+networkx>=3.0 
+
+python-docx>=1.0 
+
+pyarrow>=14.0 
+
+openpyxl>=3.1 
